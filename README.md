@@ -61,13 +61,13 @@ A spaced repetition study tool that generates AI-powered quizzes and tracks user
 ### [Nexus Pulse Dashboard](https://github.com/jtarkington-dev/NexusPulse)
 A productivity dashboard featuring custom themes and UI components.
 
-### [AI SysAdmin Assistant](https://github.com/jtarkington-dev/AISysAdminAssistant)
+### [AI SysAdmin Assistant](https://github.com/jtarkington-dev/ai-sysadmin-assistant)
 A command-line tool that analyzes system health using OpenRouter API and provides actionable insights.
 
-### [Daily Log App](https://github.com/jtarkington-dev/DailyLogApp)
+### [Daily Log App](https://github.com/jtarkington-dev/daily.log)
 A simple application for tracking daily activities with Markdown support.
 
-### [MNIST Number Recognition Model](https://github.com/jtarkington-dev/MNISTModel)
+### [MNIST Number Recognition Model](https://github.com/jtarkington-dev/hello-ai-mnist)
 A basic neural network trained to recognize handwritten digits using the MNIST dataset.
 
 ---
