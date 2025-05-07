@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Jeremy Tarkington
 
-🚀 **IT Support Engineer** with over 15 years of experience in delivering technical solutions in secure, fast-paced environments. I specialize in:
+🚀 **IT Support Engineer** with over 15 years of experience delivering technical solutions in secure, fast-paced environments. I specialize in:
 
-- **Automation Scripting**: Proficient in Python and Bash for automating routine tasks.
-- **System Administration**: Experienced in managing Windows and Linux systems, including Active Directory and SQL Server.
-- **Technical Support**: Skilled in resolving Tier 1–3 support issues, providing user training, and creating documentation.
+- **Automation Scripting**: Proficient in Python and Bash for streamlining workflows.
+- **System Administration**: Experienced in managing Windows and Linux environments, including Active Directory and SQL-based systems.
+- **Technical Support**: Skilled in resolving Tier 1–3 issues, creating internal tooling, and training non-technical users.
 
 ---
 
@@ -36,7 +36,7 @@
 - Serverless deployment logic
 
 **Tools & Platforms**  
-- Microsoft 365 admin, G Suite, Slack, Zoom  
+- Microsoft 365 Admin, G Suite, Slack, Zoom  
 - Notion, Confluence, Jira, GitHub Projects  
 - Salesforce, Help Desk Systems  
 - VS Code, WSL, Docker (basic usage)
@@ -55,25 +55,26 @@
 
 ## 📂 Projects
 
-### [StudyGuide App](https://github.com/jtarkington-dev/StudyGuide)
-A spaced repetition study tool that generates AI-powered quizzes and tracks user performance.
+### [StudyGuide App](https://github.com/jtarkington-dev/StudyGuide)  
+Spaced repetition tool with AI-generated quizzes, tracking, and Supabase integration.
 
-### [Nexus Pulse Dashboard](https://github.com/jtarkington-dev/NexusPulse)
-A productivity dashboard featuring custom themes and UI components.
+### [Nexus Pulse Dashboard](https://github.com/jtarkington-dev/NexusPulse)  
+Themed productivity dashboard with modular panels and customizable UI.
 
-### [AI SysAdmin Assistant](https://github.com/jtarkington-dev/ai-sysadmin-assistant)
-A command-line tool that analyzes system health using OpenRouter API and provides actionable insights.
+### [AI SysAdmin Assistant](https://github.com/jtarkington-dev/ai-sysadmin-assistant)  
+CLI tool that analyzes system health using OpenRouter API with built-in remediation advice.
 
-### [Daily Log App](https://github.com/jtarkington-dev/daily.log)
-A simple application for tracking daily activities with Markdown support.
+### [Daily Log App](https://github.com/jtarkington-dev/daily.log)  
+Track daily tasks and entries with clean Markdown rendering and log export features.
 
-### [MNIST Number Recognition Model](https://github.com/jtarkington-dev/hello-ai-mnist)
-A basic neural network trained to recognize handwritten digits using the MNIST dataset.
+### [MNIST Number Recognition](https://github.com/jtarkington-dev/hello-ai-mnist)  
+Simple digit recognition model trained on MNIST to demonstrate ML workflow.
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: jtarkington-dev@gmail.com
-- 📍 Location: Lake Charles, LA
-- 📞 Phone: 337-515-8618
+- 🌐 **Portfolio**: [jeremy-dev.netlify.app](https://jeremy-dev.netlify.app)  
+- 📧 **Email**: jtarkington-dev@gmail.com  
+- 📍 **Location**: Lake Charles, LA  
+- 📞 **Phone**: 337-515-8618
