@@ -70,6 +70,9 @@ Track daily tasks and entries with clean Markdown rendering and log export featu
 ### [MNIST Number Recognition](https://github.com/jtarkington-dev/hello-ai-mnist)  
 Simple digit recognition model trained on MNIST to demonstrate ML workflow.
 
+### [Open Panda Dashboard](https://github.com/jtarkington-dev/open-panda-dashboard)
+No-code AI-powered dashboard app that turns any CSV or Excel file into instant visual insights. Features include auto-generated line charts, pie charts, key trend summaries, and responsive layout — all built in Python and Streamlit for non-technical users. Designed for freelancers, teachers, and small businesses to get data clarity without coding.
+
 ---
 
 ## 📫 Contact Me
