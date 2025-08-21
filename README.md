@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jeremy Tarkington
 
-🚀 **IT Support Engineer** with over 15 years of experience delivering technical solutions in secure, fast-paced environments. I specialize in:
+🚀 **IT Support Engineer** with over 7 years of experience delivering technical solutions in secure, fast-paced environments. I specialize in:
 
 - **Automation Scripting**: Proficient in Python and Bash for streamlining workflows.
 - **System Administration**: Experienced in managing Windows and Linux environments, including Active Directory and SQL-based systems.
